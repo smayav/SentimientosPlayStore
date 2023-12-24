@@ -1,0 +1,27 @@
+fastapi
+uvicorn[standard]
+nltk
+unidecode
+joblib
+scikit-learn
+wordcloud
+pandas
+numpy
+matplotlib
+seaborn
+
+# fastapi
+# uvicorn[standard]
+# jinja2
+# numpy
+# pandas
+# matplotlib
+# opencv-python
+# scikit-learn
+# tensorflow
+# seaborn
+# scikeras[tensorflow]
+# nltk
+# unidecode
+# wordcloud
+# joblib
